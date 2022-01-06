@@ -1,0 +1,5 @@
+name: Rulesverify
+version: '${project.version}'
+main: ch.tom.tcodes.rulesverify.RulesVerify
+api-version: 1.18
+authors: [ T0myy ]
